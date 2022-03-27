@@ -1,12 +1,11 @@
 # nonRTacMIDInodejs
 
-A pack containing a couple scripts for non real time midi files bash rendering
+<sub>A pack containing a couple scripts for non real time midi files bash rendering</sub>
 
-instructions:
+<sub>instructions:</sub>
 
-* npm intall -g jsmidgen
+* <sub>npm intall -g jsmidgen</sub>
 
-validate the name of the folder you need within the script
+<sub>validate the name of the folder you need within the script<sub>
 
-* node xx.js
-
+* <sub>node xx.js</sub>
